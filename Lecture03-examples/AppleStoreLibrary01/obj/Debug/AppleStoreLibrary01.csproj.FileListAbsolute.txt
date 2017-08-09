@@ -1,0 +1,5 @@
+D:\CS287-examples\Lecture03-examples\AppleStoreLibrary01\bin\Debug\AppleStoreLibrary01.dll
+D:\CS287-examples\Lecture03-examples\AppleStoreLibrary01\bin\Debug\AppleStoreLibrary01.pdb
+D:\CS287-examples\Lecture03-examples\AppleStoreLibrary01\obj\Debug\AppleStoreLibrary01.csprojResolveAssemblyReference.cache
+D:\CS287-examples\Lecture03-examples\AppleStoreLibrary01\obj\Debug\AppleStoreLibrary01.dll
+D:\CS287-examples\Lecture03-examples\AppleStoreLibrary01\obj\Debug\AppleStoreLibrary01.pdb

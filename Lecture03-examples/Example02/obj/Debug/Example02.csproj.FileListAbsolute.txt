@@ -1,0 +1,11 @@
+D:\CS287-examples\Lecture03-examples\Example02\bin\Debug\Example02.exe.config
+D:\CS287-examples\Lecture03-examples\Example02\bin\Debug\Example02.exe
+D:\CS287-examples\Lecture03-examples\Example02\bin\Debug\Example02.pdb
+D:\CS287-examples\Lecture03-examples\Example02\bin\Debug\AppleStoreLibrary01.dll
+D:\CS287-examples\Lecture03-examples\Example02\bin\Debug\AppleStoreLibrary01.pdb
+D:\CS287-examples\Lecture03-examples\Example02\obj\Debug\Example02.csprojResolveAssemblyReference.cache
+D:\CS287-examples\Lecture03-examples\Example02\obj\Debug\Example02.MainForm.resources
+D:\CS287-examples\Lecture03-examples\Example02\obj\Debug\Example02.Properties.Resources.resources
+D:\CS287-examples\Lecture03-examples\Example02\obj\Debug\Example02.csproj.GenerateResource.Cache
+D:\CS287-examples\Lecture03-examples\Example02\obj\Debug\Example02.exe
+D:\CS287-examples\Lecture03-examples\Example02\obj\Debug\Example02.pdb
